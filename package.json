@@ -11,6 +11,7 @@
   "dependencies": {
     "@ai-sdk/anthropic": "^4.0.15",
     "@ai-sdk/google": "^4.0.16",
+    "@ai-sdk/react": "^4.0.30",
     "@xyflow/react": "^12.11.2",
     "ai": "^7.0.28",
     "lucide-react": "^1.24.0",
